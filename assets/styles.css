@@ -1,0 +1,26 @@
+body{
+    font-family: verdana;
+    padding: 1rem;
+}
+
+h1{
+    text-align: center;
+}
+
+form#add-souvenir{
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+    margin: 1rem;
+    justify-content: center;
+    border: solid 1px black;
+
+}
+
+form > *{
+    margin: 0.5rem;
+}
+
+p{
+    text-align: center;
+}
